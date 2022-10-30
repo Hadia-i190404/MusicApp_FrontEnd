@@ -3,6 +3,9 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/hp/AndroidStudioProjects/i190404/app/src/main/res/drawable-anydpi/ic_account.xml" value="0.2135" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/i190404/app/src/main/res/drawable-anydpi/ic_menu.xml" value="0.2135" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/i190404/app/src/main/res/drawable-anydpi/ic_play.xml" value="0.2135" />
         <entry key="..\:/Users/hp/AndroidStudioProjects/i190404/app/src/main/res/drawable-v24/circle.xml" value="0.229" />
         <entry key="..\:/Users/hp/AndroidStudioProjects/i190404/app/src/main/res/drawable-v24/ic_plus1.xml" value="0.229" />
         <entry key="..\:/Users/hp/AndroidStudioProjects/i190404/app/src/main/res/drawable/acc.xml" value="0.229" />
@@ -48,14 +51,14 @@
         <entry key="..\:/Users/hp/AndroidStudioProjects/i190404/app/src/main/res/layout/activity_nine.xml" value="0.27447916666666666" />
         <entry key="..\:/Users/hp/AndroidStudioProjects/i190404/app/src/main/res/layout/activity_nineteen.xml" value="0.27447916666666666" />
         <entry key="..\:/Users/hp/AndroidStudioProjects/i190404/app/src/main/res/layout/activity_second.xml" value="0.2" />
-        <entry key="..\:/Users/hp/AndroidStudioProjects/i190404/app/src/main/res/layout/activity_seventeen.xml" value="0.27447916666666666" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/i190404/app/src/main/res/layout/activity_seventeen.xml" value="0.1" />
         <entry key="..\:/Users/hp/AndroidStudioProjects/i190404/app/src/main/res/layout/activity_seventh.xml" value="0.27447916666666666" />
         <entry key="..\:/Users/hp/AndroidStudioProjects/i190404/app/src/main/res/layout/activity_sixteen.xml" value="0.27447916666666666" />
         <entry key="..\:/Users/hp/AndroidStudioProjects/i190404/app/src/main/res/layout/activity_sixth.xml" value="0.27447916666666666" />
         <entry key="..\:/Users/hp/AndroidStudioProjects/i190404/app/src/main/res/layout/activity_ten.xml" value="0.27447916666666666" />
         <entry key="..\:/Users/hp/AndroidStudioProjects/i190404/app/src/main/res/layout/activity_third.xml" value="0.27447916666666666" />
         <entry key="..\:/Users/hp/AndroidStudioProjects/i190404/app/src/main/res/layout/activity_thirteen.xml" value="0.27447916666666666" />
-        <entry key="..\:/Users/hp/AndroidStudioProjects/i190404/app/src/main/res/layout/activity_twelve.xml" value="0.27447916666666666" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/i190404/app/src/main/res/layout/activity_twelve.xml" value="0.1" />
         <entry key="..\:/Users/hp/AndroidStudioProjects/i190404/app/src/main/res/layout/activity_twenty.xml" value="0.27447916666666666" />
         <entry key="..\:/Users/hp/AndroidStudioProjects/i190404/app/src/main/res/layout/activity_twentyone.xml" value="0.27447916666666666" />
         <entry key="..\:/Users/hp/AndroidStudioProjects/i190404/app/src/main/res/layout/activity_twentythree.xml" value="0.27447916666666666" />

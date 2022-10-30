@@ -130,18 +130,17 @@
         android:layout_gravity="center"
         android:orientation="vertical"
         android:weightSum="1">
-        <ImageView
+        <SeekBar
             android:layout_width="match_parent"
-            android:layout_height="match_parent"
-            android:src="@drawable/musicbars"
-            android:layout_weight="0.5">
-
-        </ImageView>
+            android:layout_height="wrap_content"
+            android:id="@+id/seekbar"
+            android:layout_margin="10dp"
+            android:backgroundTint="@color/white"/>
         <TextView
             android:layout_width="match_parent"
             android:layout_height="match_parent"
-            android:text="   0:00"
-            android:layout_weight="0.5"
+            android:text="0:00"
+            android:layout_weight="0.1"
             android:textColor="#FFC206">
         </TextView>
     </LinearLayout>
